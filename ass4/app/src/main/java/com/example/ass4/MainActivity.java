@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
         checkLocation = findViewById(R.id.checkLocation);
         checkBackup = findViewById(R.id.checkBackup);
 
+
         tvDevice = findViewById(R.id.tvDevice);
         tvFeature = findViewById(R.id.tvFeature);
 

@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 EditText nameET,cityET,emailET,mobileET;
 Button click;
     @Override
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
